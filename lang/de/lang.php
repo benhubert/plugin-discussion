@@ -9,8 +9,8 @@
  */
 $lang['encoding']              = 'utf-8';
 $lang['direction']             = 'ltr';
-$lang['menu']                  = 'Diskussionen moderieren';
-$lang['discussion']            = 'Diskussion';
+$lang['menu']                  = 'Kommentare moderieren';
+$lang['discussion']            = 'Kommentare';
 $lang['comment']               = 'Kommentar';
 $lang['comments']              = 'Kommentare';
 $lang['nocomments']            = 'Kommentare';
@@ -19,13 +19,13 @@ $lang['address']               = 'Adresse';
 $lang['date']                  = 'Datum';
 $lang['entercomment']          = 'Geben Sie Ihren Kommentar ein';
 $lang['wikisyntax']            = 'Wiki-Syntax ist zugelassen';
-$lang['older']                 = 'Ältere Diskussionen';
-$lang['newer']                 = 'Neuere Diskussionen';
+$lang['older']                 = 'Ältere Kommentare';
+$lang['newer']                 = 'Neuere Kommentare';
 $lang['btn_reply']             = 'Antworten';
 $lang['btn_hide']              = 'Ausblenden';
 $lang['btn_show']              = 'Einblenden';
 $lang['btn_change']            = 'Ändern';
-$lang['statuschanged']         = 'Status der Diskussion geändert';
+$lang['statuschanged']         = 'Status der Kommentare geändert';
 $lang['wordblock']             = 'Ihr Kommentar wurde als Spam blockiert.';
 $lang['moderation']            = 'Dein Kommentar wurde hinzugefügt und wartet auf Freigabe.';
 $lang['mail_newcomment']       = 'Neuer Kommentar';

@@ -13,9 +13,9 @@ $lang['direction']  = 'ltr';
  
 // for admin plugins, the menu prompt to be displayed in the admin menu
 // if set here, the plugin doesn't need to override the getMenuText() method
-$lang['menu']            = 'Diskussionen moderieren'; 
+$lang['menu']            = 'Kommentare moderieren'; 
 
-$lang['discussion']      = 'Diskussion';
+$lang['discussion']      = 'Kommentare';
 $lang['comment']         = 'Kommentar';
 $lang['comments']        = 'Kommentare';
 $lang['nocomments']      = 'Kommentare';
@@ -24,13 +24,13 @@ $lang['address']         = 'Adresse';
 $lang['date']            = 'Datum';
 $lang['entercomment']    = 'Gib Deinen Kommentar ein';
 $lang['wikisyntax']      = 'Wiki-Syntax ist zugelassen';
-$lang['older']           = 'Ältere Diskussionen';
-$lang['newer']           = 'Neuere Diskussionen';
+$lang['older']           = 'Ältere Kommentare';
+$lang['newer']           = 'Neuere Kommentare';
 $lang['btn_reply']       = 'Antworten';
 $lang['btn_hide']        = 'Ausblenden';
 $lang['btn_show']        = 'Einblenden';
 $lang['btn_change']      = 'Ändern';
-$lang['statuschanged']   = 'Status der Diskussion geändert';
+$lang['statuschanged']   = 'Status der Kommentare geändert';
 $lang['wordblock']       = 'Dein Kommentar wurde als Spam blockiert.';
 $lang['mail_newcomment'] = 'Neuer Kommentar';
 $lang['subscribe']       = 'Kommentare abonnieren';
